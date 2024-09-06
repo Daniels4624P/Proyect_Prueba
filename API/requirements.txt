@@ -3,3 +3,6 @@ python-jose
 passlib
 pymongo
 python-multipart
+uvicorn
+API.db
+API.routers
