@@ -4,5 +4,3 @@ passlib
 pymongo
 python-multipart
 uvicorn
-db
-routers
