@@ -7,3 +7,9 @@ uvicorn
 jwt
 jwt.exceptions
 fastapi.staticfiles
+fastapi.security
+typing
+jose
+passlib.context
+pydantic
+bson
