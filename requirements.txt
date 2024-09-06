@@ -4,8 +4,5 @@ passlib
 pymongo
 python-multipart
 uvicorn
-jwt
-typing
 jose
 pydantic
-bson
