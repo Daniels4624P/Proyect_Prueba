@@ -5,10 +5,7 @@ pymongo
 python-multipart
 uvicorn
 jwt
-fastapi.staticfiles
-fastapi.security
 typing
 jose
-passlib.context
 pydantic
 bson
