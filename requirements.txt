@@ -5,7 +5,6 @@ pymongo
 python-multipart
 uvicorn
 jwt
-jwt.exceptions
 fastapi.staticfiles
 fastapi.security
 typing
